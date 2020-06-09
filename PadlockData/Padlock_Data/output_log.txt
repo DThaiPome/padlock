@@ -1,0 +1,32 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   26.21.14.4114
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.292 seconds
+Platform assembly: D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.408900 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 7444 -> priority: 1 
+  Thread -> id: 7fc0 -> priority: 1 
+  Thread -> id: 750c -> priority: 1 
+  Thread -> id: 49b0 -> priority: 1 
+  Thread -> id: 5478 -> priority: 1 
+  Thread -> id: 19ac -> priority: 1 
