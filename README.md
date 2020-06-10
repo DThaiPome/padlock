@@ -12,7 +12,7 @@ The mechanics of the game are partly inspired by the [Pogo Pandemonium minigames
 
 The game itself consists of two players facing off against each other with tokens on a board, is played in rounds. To win each round, each player must push the other player's token off of the board. Once one player wins at least five rounds and wins two more rounds than the other player, they win the game. The end-state is unfinished, so the game simply resets itself at this point.
 
-![action image](/PageAssets/white_token_pushed.png)
+![action image](/PagesAssets/white_token_pushed.png)
 
 Moving a token will cause the tiles it moves across to change color. Every time a player surrounds an area completely with tiles of their color, with no gaps and no corners left unfilled, the encircled area will change to the player's color all at once. If the *other* player is within this encircled area when this happens, they will be forced out of the region, to whichever spot is closest. If the closest spot is off of the board, then the other player will be pushed outside the board, and they will lose the round.
 
