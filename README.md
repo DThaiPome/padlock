@@ -1,39 +1,16 @@
 ![Test](/PagesAssets/splash.png)
 
-## Welcome to GitHub Pages
+## Overview
 
-You can use the [editor on GitHub](https://github.com/DThaiPome/padlock/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+***Padlock*** is a game concept I thought of when I was in high school. At the time, I was very inexperienced with good software design. However, I was somewhat experienced with the Unity game engine, and I figured this project would be easy enough to complete over a weekend. I did finish the project in a weekend, but, not knowing good software design, the code ended up being incredibly messy and clearly rushed. Looking back on it now, I am astonished I could deal with that...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What I was most proud of with this project, at the time, was implementing a fill algorithm I found. Again, it was messy, but at the time I was very impressed with myself, and had a lot of fun learning how it worked. Overall, while this project does not really demonstrate my skills, it is still a neat product of my enthusiasm for games and programming.
 
-### Markdown
+## Concept
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Critiques
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DThaiPome/padlock/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
