@@ -15,18 +15,11 @@ Platform assembly: D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padloc
 Loading D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.292 seconds
+- Completed reload, in  0.041 seconds
 Platform assembly: D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\EXIT SLIP V2\Exit Slip v2\Unity\Padlock\PadlockData\Padlock_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.408900 ms
-Setting up 6 worker threads for Enlighten.
-  Thread -> id: 7444 -> priority: 1 
-  Thread -> id: 7fc0 -> priority: 1 
-  Thread -> id: 750c -> priority: 1 
-  Thread -> id: 49b0 -> priority: 1 
-  Thread -> id: 5478 -> priority: 1 
-  Thread -> id: 19ac -> priority: 1 
+UnloadTime: 4.085200 ms
