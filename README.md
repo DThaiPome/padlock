@@ -4,7 +4,9 @@
 
 ***Padlock*** is a game concept I thought of when I was in high school. At the time, I was very inexperienced with good software design. However, I was somewhat experienced with the Unity game engine, and I figured this project would be easy enough to complete over a weekend. I did finish the project in a weekend, but, not knowing good software design, the code ended up being incredibly messy and clearly rushed. 
 
-What I was most proud of with this project, at the time, was implementing a fill algorithm I found. Again, it was messy, but at the time I was very impressed with myself, and had a lot of fun learning how it worked. Overall, while this project does not really demonstrate my skills, it is still a neat product of my enthusiasm for games and programming.
+What I was most proud of with this project, at the time, was implementing a fill algorithm I found. Again, it was messy, but at the time I was very impressed with myself, and had a lot of fun learning how it worked. Overall, while this project does not really demonstrate my skills, it is still a neat product of my enthusiasm for games and programming. There is an executable in the repository to run the game and play it.
+
+*Tokens are controlled using WASD or the arrow keys*
 
 ## Concept
 
@@ -18,10 +20,3 @@ Moving a token will cause the tiles it moves across to change color. Every time 
 
 The board itself is square, and each half of the board has barriers that are colored. The colored barriers will act as tiles of their respective color, making it easier for a player to claim territory on their respective side of the board.
 
-## Critiques on the Code
-
-Organize:
-  Main issue: Code is disorganized. One method may perform an indefinite amount of functions. This makes debugging this code very difficult, and as far as I remember it definitely was.
-  Problems:
-    Player Tokens:
-      - The movement for both tokens are in one script; that is, a script stores both token objects, and moves each one based on the inputs. The scripts for moving each token are explicitly separated, despite the fact that it is clearly duplicated code.
