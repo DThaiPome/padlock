@@ -6,7 +6,7 @@
 
 What I was most proud of with this project, at the time, was implementing a fill algorithm I found. Again, it was messy, but at the time I was very impressed with myself, and had a lot of fun learning how it worked. Overall, while this project does not really demonstrate my skills, it is still a neat product of my enthusiasm for games and programming. There is an executable in the repository to run the game and play it.
 
-*Tokens are controlled using WASD or the arrow keys*
+*Tokens are controlled using WASD or the arrow keys.*
 
 ## Concept
 
