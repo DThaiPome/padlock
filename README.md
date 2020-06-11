@@ -20,3 +20,8 @@ The board itself is square, and each half of the board has barriers that are col
 
 ## Critiques on the Code
 
+Organize:
+  Main issue: Code is disorganized. One method may perform an indefinite amount of functions. This makes debugging this code very difficult, and as far as I remember it definitely was.
+  Problems:
+    Player Tokens:
+      - The movement for both tokens are in one script; that is, a script stores both token objects, and moves each one based on the inputs. The scripts for moving each token are explicitly separated, despite the fact that it is clearly duplicated code.
